@@ -1,0 +1,2002 @@
+[
+  {
+    "source": "Company",
+    "target": "China mainland",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "India",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "Japan",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "South Korea",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "Taiwan",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "Vietnam",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "U.S.",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "Asia",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "Europe",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Company",
+    "target": "Google LLC",
+    "relation": "EARNS_REVENUE_FROM"
+  },
+  {
+    "source": "Google LLC",
+    "target": "U.S. antitrust laws",
+    "relation": "VIOLATED"
+  },
+  {
+    "source": "U.S. District Court for the District of Columbia",
+    "target": "Google LLC",
+    "relation": "ORDERED_REMEDIES"
+  },
+  {
+    "source": "U.S. District Court for the District of Columbia",
+    "target": "U.S. Department of Justice",
+    "relation": "SUBJECT_TO_APPEAL"
+  },
+  {
+    "source": "U.S. District Court for the District of Columbia",
+    "target": "Google LLC",
+    "relation": "SUBJECT_TO_APPEAL"
+  },
+  {
+    "source": "Company",
+    "target": "Cupertino, California",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Commission",
+    "target": "Company",
+    "relation": "ANNOUNCED_INVESTIGATION_AGAINST"
+  },
+  {
+    "source": "Epic Games, Inc.",
+    "target": "Company",
+    "relation": "FILED_LAWSUIT_AGAINST"
+  },
+  {
+    "source": "California District Court",
+    "target": "Company",
+    "relation": "FOUND_VIOLATIONS_OF"
+  },
+  {
+    "source": "California District Court",
+    "target": "Company",
+    "relation": "ISSUED_INJUNCTION"
+  },
+  {
+    "source": "2021 Injunction",
+    "target": "Company",
+    "relation": "APPLIES_TO"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "wholly owned subsidiaries",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Shareholders",
+    "relation": "AUDITED"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Board of Directors",
+    "relation": "AUDITED"
+  },
+  {
+    "source": "Company",
+    "target": "Ernst & Young LLP",
+    "relation": "AUDITED"
+  },
+  {
+    "source": "Chris Kondo",
+    "target": "Company",
+    "relation": "TRANSITION_FROM"
+  },
+  {
+    "source": "Ben Borders",
+    "target": "Company",
+    "relation": "BECOME"
+  },
+  {
+    "source": "Ben Borders",
+    "target": "Chris Kondo",
+    "relation": "ASSUME_ROLE_OF"
+  },
+  {
+    "source": "Mr. Borders",
+    "target": "Kevan Parekh",
+    "relation": "REPORTS_TO"
+  },
+  {
+    "source": "Kevan Parekh",
+    "target": "Company",
+    "relation": "CFO_OF"
+  },
+  {
+    "source": "Registrant",
+    "target": "The Bank of New York Mellon Trust Company, N.A.",
+    "relation": "ENTERED_INTO"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Deferred Compensation Plan",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Executive Cash Incentive Plan",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Restricted Stock Unit Award Agreement",
+    "relation": "HAS"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "2014 Employee Stock Plan",
+    "relation": "RELATED_TO"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "2022 Employee Stock Plan",
+    "relation": "RELATED_TO"
+  },
+  {
+    "source": "Timothy D. Cook",
+    "target": "Kevan Parekh",
+    "relation": "APPOINTS"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "The Bank of New York Mellon Trust Company, N.A.",
+    "relation": "ENTERED_INTO"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "The Bank of New York Mellon Trust Company, N.A.",
+    "relation": "ENTERED_INTO"
+  },
+  {
+    "source": "The Bank of New York Mellon Trust Company, N.A.",
+    "target": "Apple Computer Trading (Shanghai) Co., Ltd.",
+    "relation": "TRUSTEE_OF"
+  },
+  {
+    "source": "The Bank of New York Mellon Trust Company, N.A.",
+    "target": "Apple Operations Mexico, S.A. de C.V.",
+    "relation": "TRUSTEE_OF"
+  },
+  {
+    "source": "The Bank of New York Mellon Trust Company, N.A.",
+    "target": "Apple South Asia Pte. Ltd.",
+    "relation": "TRUSTEE_OF"
+  },
+  {
+    "source": "The Bank of New York Mellon Trust Company, N.A.",
+    "target": "Apple Computer Trading (Shanghai) Co., Ltd.",
+    "relation": "PAYING_AGENT_FOR"
+  },
+  {
+    "source": "The Bank of New York Mellon Trust Company, N.A.",
+    "target": "Apple Operations Mexico, S.A. de C.V.",
+    "relation": "PAYING_AGENT_FOR"
+  },
+  {
+    "source": "The Bank of New York Mellon Trust Company, N.A.",
+    "target": "Apple South Asia Pte. Ltd.",
+    "relation": "PAYING_AGENT_FOR"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Apple Operations Mexico, S.A. de C.V.",
+    "relation": "SUBSIDIARY_OF"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Apple South Asia Pte. Ltd.",
+    "relation": "SUBSIDIARY_OF"
+  },
+  {
+    "source": "Timothy D. Cook",
+    "target": "Apple Inc.",
+    "relation": "CERTIFIES"
+  },
+  {
+    "source": "Timothy D. Cook",
+    "target": "Registrant",
+    "relation": "DISCLOSES"
+  },
+  {
+    "source": "Timothy D. Cook",
+    "target": "Apple Inc.",
+    "relation": "CERTIFIES"
+  },
+  {
+    "source": "Kevan Parekh",
+    "target": "Apple Inc.",
+    "relation": "CERTIFIES"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Securities and Exchange Commission",
+    "relation": "FURNISHED_TO"
+  },
+  {
+    "source": "Apple Inc.",
+    "target": "Securities Exchange Act of 1934",
+    "relation": "COMPLIES_WITH"
+  },
+  {
+    "source": "Tim Cook",
+    "target": "Apple Inc.",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Luca Maestri",
+    "target": "Apple Inc.",
+    "relation": "CFO_OF"
+  },
+  {
+    "source": "Jeff Williams",
+    "target": "Apple Inc.",
+    "relation": "COO_OF"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Microsoft 365 Consumer",
+    "relation": "COMPONENT_OF"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Microsoft 365 Security and Compliance",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Microsoft Teams",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Power BI",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Exchange",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "SharePoint",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Enterprise Mobility + Security",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Windows Commercial",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Microsoft 365 Copilot",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Consumer",
+    "target": "Office Consumer products",
+    "relation": "AFFECTS"
+  },
+  {
+    "source": "Microsoft 365 Consumer",
+    "target": "Outlook.com",
+    "relation": "AFFECTS"
+  },
+  {
+    "source": "Microsoft 365 Consumer",
+    "target": "OneDrive",
+    "relation": "AFFECTS"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "world\u2019s professionals",
+    "relation": "CONNECTS"
+  },
+  {
+    "source": "Microsoft Defender for Endpoint",
+    "target": "endpoint security solution providers",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Enterprise Mobility + Security",
+    "target": "identity vendors",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Enterprise Mobility + Security",
+    "target": "security solution vendors",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Enterprise Mobility + Security",
+    "target": "security point solution vendors",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "online professional networks",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "recruiting companies",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "talent management companies",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "human resource services companies",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "job boards",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "learning and development products and services companies",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Dynamics",
+    "target": "cloud-based business solution providers",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Dynamics",
+    "target": "on-premises business solution providers",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Nuance Healthcare",
+    "target": "healthcare industry",
+    "relation": "PROVIDES"
+  },
+  {
+    "source": "Nuance Healthcare",
+    "target": "Microsoft Partner Network",
+    "relation": "ASSISTS"
+  },
+  {
+    "source": "Nuance Healthcare",
+    "target": "Microsoft products",
+    "relation": "PROVIDES_TRAINING_ON"
+  },
+  {
+    "source": "Azure",
+    "target": "cloud service providers",
+    "relation": "FACES_COMPETITION_FROM"
+  },
+  {
+    "source": "Azure",
+    "target": "hybrid cloud",
+    "relation": "ENABLES"
+  },
+  {
+    "source": "Azure",
+    "target": "existing datacenters",
+    "relation": "ALLOWS_DEPLOYMENT_OF"
+  },
+  {
+    "source": "Xbox",
+    "target": "Microsoft",
+    "relation": "PART_OF"
+  },
+  {
+    "source": "Xbox",
+    "target": "gaming experiences",
+    "relation": "PROVIDES_ACCESS_TO"
+  },
+  {
+    "source": "Xbox",
+    "target": "developer and partner ecosystems",
+    "relation": "BENEFITS"
+  },
+  {
+    "source": "Xbox",
+    "target": "revenue",
+    "relation": "AFFECTS"
+  },
+  {
+    "source": "Xbox",
+    "target": "active user base",
+    "relation": "DETERMINED_BY"
+  },
+  {
+    "source": "Microsoft Copilot",
+    "target": "digital companion",
+    "relation": "DESIGNED_TO"
+  },
+  {
+    "source": "Microsoft Copilot",
+    "target": "Microsoft Edge",
+    "relation": "ENABLED_BY"
+  },
+  {
+    "source": "Microsoft Copilot",
+    "target": "Bing",
+    "relation": "ENABLED_BY"
+  },
+  {
+    "source": "Windows",
+    "target": "various software products",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Windows",
+    "target": "alternative platforms",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Windows",
+    "target": "devices",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Dell",
+    "relation": "HAS_AGREEMENT_WITH"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Hewlett-Packard",
+    "relation": "HAS_AGREEMENT_WITH"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Lenovo",
+    "relation": "HAS_AGREEMENT_WITH"
+  },
+  {
+    "source": "Mr. Nadella",
+    "target": "Board",
+    "relation": "CHAIRMAN_OF"
+  },
+  {
+    "source": "Mr. Nadella",
+    "target": "Chief Executive Officer",
+    "relation": "APPOINTED_AS"
+  },
+  {
+    "source": "Mr. Nadella",
+    "target": "Cloud and Enterprise",
+    "relation": "EXECUTIVE_VICE_PRESIDENT_OF"
+  },
+  {
+    "source": "Mr. Nadella",
+    "target": "Server and Tools",
+    "relation": "PRESIDENT_OF"
+  },
+  {
+    "source": "Mr. Nadella",
+    "target": "Online Services Division",
+    "relation": "SENIOR_VICE_PRESIDENT_OF"
+  },
+  {
+    "source": "Satya Nadella",
+    "target": "Microsoft",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Mr. Althoff",
+    "target": "Microsoft",
+    "relation": "EXECUTIVE_VICE_PRESIDENT_OF"
+  },
+  {
+    "source": "Mr. Althoff",
+    "target": "Ecolab Inc.",
+    "relation": "BOARD_MEMBER_OF"
+  },
+  {
+    "source": "Ms. Coleman",
+    "target": "Microsoft",
+    "relation": "EXECUTIVE_VICE_PRESIDENT_OF"
+  },
+  {
+    "source": "Ms. Coleman",
+    "target": "Microsoft",
+    "relation": "JOINED"
+  },
+  {
+    "source": "Ms. Hogan",
+    "target": "Microsoft",
+    "relation": "JOINED"
+  },
+  {
+    "source": "Ms. Hogan",
+    "target": "Microsoft Services",
+    "relation": "HELD_POSITION"
+  },
+  {
+    "source": "Ms. Hogan",
+    "target": "Alaska Air Group, Inc.",
+    "relation": "SERVES_ON"
+  },
+  {
+    "source": "Ms. Hogan",
+    "target": "Alaska Air Group, Inc.",
+    "relation": "SERVES_ON"
+  },
+  {
+    "source": "Ms. Hood",
+    "target": "Microsoft",
+    "relation": "JOINED"
+  },
+  {
+    "source": "Ms. Hood",
+    "target": "Microsoft Business Division",
+    "relation": "CFO_OF"
+  },
+  {
+    "source": "Mr. Numoto",
+    "target": "Microsoft",
+    "relation": "JOINED"
+  },
+  {
+    "source": "Mr. Numoto",
+    "target": "Office 365",
+    "relation": "CFO_OF"
+  },
+  {
+    "source": "Mr. Smith",
+    "target": "Microsoft",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Mr. Smith",
+    "target": "Netflix, Inc.",
+    "relation": "BOARD_MEMBER_OF"
+  },
+  {
+    "source": "Mr. Numoto",
+    "target": "Microsoft",
+    "relation": "EMPLOYED_BY"
+  },
+  {
+    "source": "Netflix, Inc.",
+    "target": "Board of Directors",
+    "relation": "SERVES_ON"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Securities and Exchange Commission",
+    "relation": "FILES_WITH"
+  },
+  {
+    "source": "nation-state associated threat actor",
+    "target": "Microsoft",
+    "relation": "COMPROMISED"
+  },
+  {
+    "source": "nation-state associated threat actor",
+    "target": "Microsoft email accounts",
+    "relation": "GAINED_ACCESS_TO"
+  },
+  {
+    "source": "nation-state associated threat actor",
+    "target": "source code repositories",
+    "relation": "ACCESS_TO"
+  },
+  {
+    "source": "nation-state associated threat actor",
+    "target": "internal systems",
+    "relation": "ACCESS_TO"
+  },
+  {
+    "source": "AI Diffusion Rule",
+    "target": "Microsoft",
+    "relation": "ADVERSELY_AFFECTS"
+  },
+  {
+    "source": "U.S. tariffs",
+    "target": "cloud and devices supply chain",
+    "relation": "IMPACT"
+  },
+  {
+    "source": "U.S. Administration",
+    "target": "trade landscape",
+    "relation": "CREATES"
+  },
+  {
+    "source": "CISO",
+    "target": "Microsoft",
+    "relation": "LEADS"
+  },
+  {
+    "source": "CISO",
+    "target": "EVP of Cloud + AI",
+    "relation": "REPORTS_TO"
+  },
+  {
+    "source": "CISO",
+    "target": "Chief Technology Officer",
+    "relation": "SERVED_IN"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Redmond, Washington",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Microsoft",
+    "target": "King County, Washington",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "MSFT",
+    "target": "NASDAQ Stock Market",
+    "relation": "TRADED_ON"
+  },
+  {
+    "source": "MSFT",
+    "target": "Board of Directors",
+    "relation": "APPROVED"
+  },
+  {
+    "source": "Board of Directors",
+    "target": "$60.0 billion",
+    "relation": "AUTHORIZED"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Securities Act of 1933",
+    "relation": "COMPLIES_WITH"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Microsoft 365 Commercial cloud",
+    "relation": "REVENUE_OF"
+  },
+  {
+    "source": "Microsoft 365 Consumer",
+    "target": "Microsoft 365 Consumer cloud",
+    "relation": "REVENUE_OF"
+  },
+  {
+    "source": "Microsoft",
+    "target": "OpenAI",
+    "relation": "MAINTAINS"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Microsoft 365",
+    "relation": "REVENUE_OF"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Dynamics 365",
+    "relation": "REVENUE_OF"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Azure",
+    "relation": "REVENUE_OF"
+  },
+  {
+    "source": "Microsoft",
+    "target": "OpenAI",
+    "relation": "PARTNERS_WITH"
+  },
+  {
+    "source": "Microsoft",
+    "target": "OpenAI",
+    "relation": "INVESTS_IN"
+  },
+  {
+    "source": "Microsoft",
+    "target": "OpenAI",
+    "relation": "HAS_REVENUE_SHARING_ARRANGEMENTS_WITH"
+  },
+  {
+    "source": "Microsoft",
+    "target": "OpenAI",
+    "relation": "HOLDS_RIGHTS_TO"
+  },
+  {
+    "source": "OpenAI",
+    "target": "Azure",
+    "relation": "EXCLUSIVE_TO"
+  },
+  {
+    "source": "OpenAI",
+    "target": "Azure",
+    "relation": "RUNS_ON"
+  },
+  {
+    "source": "Microsoft",
+    "target": "OpenAI",
+    "relation": "HAS_RIGHT_OF_FIRST_REFUSAL_ON"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Azure",
+    "relation": "DRIVEN_BY"
+  },
+  {
+    "source": "Microsoft",
+    "target": "LinkedIn",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Dynamics",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Microsoft 365 Commercial",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Enterprise and partner services",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Azure",
+    "relation": "REVENUE_OF"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Microsoft 365 Commercial",
+    "relation": "REVENUE_OF"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Gaming",
+    "relation": "DRIVEN_BY"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Search and news advertising",
+    "relation": "DRIVEN_BY"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Activision Blizzard",
+    "relation": "ACQUIRED"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Windows Commercial",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft 365 Commercial",
+    "target": "Office 2024",
+    "relation": "LAUNCHED_WITH"
+  },
+  {
+    "source": "Microsoft 365",
+    "target": "Office 2024",
+    "relation": "LAUNCHED"
+  },
+  {
+    "source": "Microsoft 365 Consumer products",
+    "target": "cloud services revenue",
+    "relation": "INCREASED"
+  },
+  {
+    "source": "Microsoft 365 Consumer cloud revenue",
+    "target": "Microsoft 365 Consumer subscriber growth",
+    "relation": "DRIVEN_BY"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "revenue",
+    "relation": "INCREASED"
+  },
+  {
+    "source": "Dynamics products and cloud services",
+    "target": "revenue",
+    "relation": "INCREASED"
+  },
+  {
+    "source": "Dynamics 365",
+    "target": "revenue",
+    "relation": "GROWTH"
+  },
+  {
+    "source": "Server products and cloud services",
+    "target": "revenue",
+    "relation": "INCREASED"
+  },
+  {
+    "source": "Azure",
+    "target": "cloud services",
+    "relation": "DRIVEN_BY"
+  },
+  {
+    "source": "Activision Blizzard",
+    "target": "Xbox content and services",
+    "relation": "IMPACTED"
+  },
+  {
+    "source": "Activision Blizzard",
+    "target": "Gaming",
+    "relation": "IMPACTED"
+  },
+  {
+    "source": "Activision Blizzard",
+    "target": "product development",
+    "relation": "ACQUIRED"
+  },
+  {
+    "source": "Activision Blizzard",
+    "target": "cloud and AI engineering",
+    "relation": "IMPACTED"
+  },
+  {
+    "source": "Activision Blizzard",
+    "target": "commercial sales",
+    "relation": "IMPACTED"
+  },
+  {
+    "source": "Activision Blizzard",
+    "target": "Gaming",
+    "relation": "IMPACTED_BY"
+  },
+  {
+    "source": "OpenAI",
+    "target": "net recognized losses on equity method investments",
+    "relation": "INCLUDED_IN"
+  },
+  {
+    "source": "OECD",
+    "target": "Microsoft",
+    "relation": "APPLIES_TO"
+  },
+  {
+    "source": "OBBBA",
+    "target": "Microsoft",
+    "relation": "ASSESSED_BY"
+  },
+  {
+    "source": "One Big Beautiful Bill Act",
+    "target": "Microsoft",
+    "relation": "PROVIDES"
+  },
+  {
+    "source": "IRS",
+    "target": "Microsoft",
+    "relation": "AUDITS"
+  },
+  {
+    "source": "IRS",
+    "target": "Microsoft",
+    "relation": "SEEKS"
+  },
+  {
+    "source": "Company",
+    "target": "Deloitte & Touche LLP",
+    "relation": "ENGAGED"
+  },
+  {
+    "source": "Company",
+    "target": "Board of Directors",
+    "relation": "HAS"
+  },
+  {
+    "source": "Board of Directors",
+    "target": "Audit Committee",
+    "relation": "CONSISTS_OF"
+  },
+  {
+    "source": "Audit Committee",
+    "target": "Deloitte & Touche LLP",
+    "relation": "HAS_ACCESS_TO"
+  },
+  {
+    "source": "Audit Committee",
+    "target": "internal auditors",
+    "relation": "HAS_ACCESS_TO"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "United States of America",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "GAAP",
+    "relation": "ADHERES_TO"
+  },
+  {
+    "source": "OpenAI",
+    "target": "equity method investments",
+    "relation": "INCLUDED_IN"
+  },
+  {
+    "source": "Activision Blizzard",
+    "target": "More Personal Computing segment",
+    "relation": "INTEGRATED_WITH"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "intangible assets",
+    "relation": "ACQUIRED"
+  },
+  {
+    "source": "Irish Data Protection Commission",
+    "target": "LinkedIn",
+    "relation": "INVESTIGATED"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "GDPR",
+    "relation": "VIOLATED"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Irish Data Protection Commission",
+    "relation": "COOPERATED_WITH"
+  },
+  {
+    "source": "Irish Data Protection Commission",
+    "target": "LinkedIn",
+    "relation": "ASSESSED_FINE"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "June 30, 2025",
+    "relation": "AUDITED"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "June 30, 2024",
+    "relation": "AUDITED"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "financial statements",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Grantor",
+    "target": "The Bank of New York Mellon Trust Company, N.A.",
+    "relation": "ESTABLISHED"
+  },
+  {
+    "source": "Charles H. Noski",
+    "target": "2016 Trust",
+    "relation": "REPRESENTATIVE_OF"
+  },
+  {
+    "source": "Grantor",
+    "target": "Board of Directors",
+    "relation": "ACTED_BY"
+  },
+  {
+    "source": "Hugh F. Johnston",
+    "target": "Beneficiaries\u2019 Representative",
+    "relation": "AGREED_TO_SERVE_AS"
+  },
+  {
+    "source": "The Bank of New York Mellon Trust Company, N.A.",
+    "target": "BNY Western Trust Company",
+    "relation": "SUCCESSOR_IN_INTEREST"
+  },
+  {
+    "source": "Charles Noski",
+    "target": "Beneficiaries\u2019 Representative",
+    "relation": "IS"
+  },
+  {
+    "source": "Grantor",
+    "target": "1993 Trust",
+    "relation": "ESTABLISHED"
+  },
+  {
+    "source": "2016 Trust",
+    "target": "2009 Trust",
+    "relation": "REPLACED"
+  },
+  {
+    "source": "2009 Trust",
+    "target": "1993 Trust",
+    "relation": "REPLACED"
+  },
+  {
+    "source": "Hugh F. Johnston",
+    "target": "Amended and Restated Indemnification Trust Agreement",
+    "relation": "SERVES_AS"
+  },
+  {
+    "source": "Grantor",
+    "target": "Directors",
+    "relation": "INDemnifies"
+  },
+  {
+    "source": "Grantor",
+    "target": "Beneficiaries",
+    "relation": "ADOPTED"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Trustee",
+    "relation": "TRANSFERRED_TO"
+  },
+  {
+    "source": "Satya Nadella",
+    "target": "Microsoft Corporation",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Amy E. Hood",
+    "relation": "CERTIFIED_BY"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Amy E. Hood",
+    "relation": "CFO_OF"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Secure Future Initiative",
+    "relation": "LAUNCHED"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Secure Future Initiative",
+    "relation": "EXPANDED"
+  },
+  {
+    "source": "CISO",
+    "target": "Microsoft",
+    "relation": "LEADS"
+  },
+  {
+    "source": "CISO",
+    "target": "EVP of Cloud + AI",
+    "relation": "REPORTS_TO"
+  },
+  {
+    "source": "CISO",
+    "target": "Chief Technology Officer",
+    "relation": "SERVED_IN"
+  },
+  {
+    "source": "CISO",
+    "target": "Microsoft",
+    "relation": "LEADS"
+  },
+  {
+    "source": "CISO",
+    "target": "EVP of Cloud + AI",
+    "relation": "REPORTS_TO"
+  },
+  {
+    "source": "CISO",
+    "target": "Chief Technology Officer",
+    "relation": "SERVED_IN"
+  },
+  {
+    "source": "CISO",
+    "target": "Microsoft",
+    "relation": "LEADS"
+  },
+  {
+    "source": "CISO",
+    "target": "EVP of Cloud + AI",
+    "relation": "REPORTS_TO"
+  },
+  {
+    "source": "CISO",
+    "target": "multiple organizations",
+    "relation": "SERVED_IN"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Microsoft Security",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Cloud + AI",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Customer Security and Trust organization",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "OpenAI",
+    "target": "equity method investments",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Activision Blizzard",
+    "target": "More Personal Computing",
+    "relation": "INTEGRATED_WITH"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "lizzard",
+    "relation": "ACQUIRED"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "Irish Data Protection Commission",
+    "relation": "INVESTIGATED_BY"
+  },
+  {
+    "source": "Microsoft",
+    "target": "LinkedIn",
+    "relation": "COOPERATED_WITH"
+  },
+  {
+    "source": "Microsoft",
+    "target": "LinkedIn",
+    "relation": "COOPERATED_WITH"
+  },
+  {
+    "source": "IDPC",
+    "target": "LinkedIn",
+    "relation": "PROVIDED"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "Irish courts",
+    "relation": "APPEALED"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Microsoft 365",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Microsoft Corporation",
+    "target": "Productivity and Business Processes",
+    "relation": "SEGMENT_OF"
+  },
+  {
+    "source": "Satya Nadella",
+    "target": "Microsoft Corporation",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Amy Hood",
+    "target": "Microsoft Corporation",
+    "relation": "CFO_OF"
+  },
+  {
+    "source": "Brad Smith",
+    "target": "Microsoft Corporation",
+    "relation": "PRESIDENT_OF"
+  },
+  {
+    "source": "Tesla",
+    "target": "Powerhub",
+    "relation": "ENHANCED_BY"
+  },
+  {
+    "source": "Tesla",
+    "target": "Autobidder",
+    "relation": "OPTIMIZED_BY"
+  },
+  {
+    "source": "Tesla",
+    "target": "Powerwall",
+    "relation": "INTEGRATES_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "Solar Roof",
+    "relation": "MANUFACTURES"
+  },
+  {
+    "source": "Tesla",
+    "target": "solar inverter",
+    "relation": "DESIGNED_BY"
+  },
+  {
+    "source": "Cortex",
+    "target": "Gigafactory Texas",
+    "relation": "EXPANDED"
+  },
+  {
+    "source": "Cortex 2",
+    "target": "Gigafactory Texas",
+    "relation": "BUILDING_AT"
+  },
+  {
+    "source": "Samsung",
+    "target": "advanced semiconductors",
+    "relation": "COLLABORATES_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "Superchargers",
+    "relation": "SUPPORTS"
+  },
+  {
+    "source": "Tesla",
+    "target": "solar and energy storage systems",
+    "relation": "CO_LOCATES"
+  },
+  {
+    "source": "Tesla",
+    "target": "Supercharger for Business",
+    "relation": "RESPONSIBLE_FOR"
+  },
+  {
+    "source": "Tesla",
+    "target": "California",
+    "relation": "OPENED_IN"
+  },
+  {
+    "source": "Tesla",
+    "target": "Supercharging",
+    "relation": "OFFERS"
+  },
+  {
+    "source": "Tesla",
+    "target": "Tesla app",
+    "relation": "PURCHASE_OPTIONS_THROUGH"
+  },
+  {
+    "source": "Tesla",
+    "target": "electric vehicles",
+    "relation": "SERVICES"
+  },
+  {
+    "source": "Tesla",
+    "target": "Tesla Mobile Service",
+    "relation": "USES"
+  },
+  {
+    "source": "Tesla",
+    "target": "traditional automobile manufacturers",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Cybertruck",
+    "target": "pickup trucks",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Model S",
+    "target": "premium sedans",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Model X",
+    "target": "premium SUVs",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Model 3",
+    "target": "small to medium-sized sedans",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Model Y",
+    "target": "compact SUVs",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Our energy generation systems",
+    "target": "traditional utility companies",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Our energy generation systems",
+    "target": "solar energy companies",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "solar panels",
+    "target": "Powerwall",
+    "relation": "INTEGRATES_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "employees",
+    "relation": "FOSTERS"
+  },
+  {
+    "source": "Tesla",
+    "target": "interns",
+    "relation": "PARTNERS_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "apprentices",
+    "relation": "PARTNERS_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "trainees",
+    "relation": "PARTNERS_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "educational partners",
+    "relation": "PARTNERS_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "Manufacturing Development Program",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Tesla",
+    "target": "Engineering Development Program",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Tesla",
+    "target": "Apprenticeships",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Tesla",
+    "target": "START training",
+    "relation": "INCLUDES"
+  },
+  {
+    "source": "Tesla",
+    "target": "Robotaxi",
+    "relation": "DEPENDENT_ON"
+  },
+  {
+    "source": "Tesla",
+    "target": "vehicles",
+    "relation": "PRODUCTION_OF"
+  },
+  {
+    "source": "Tesla",
+    "target": "customers",
+    "relation": "DELIVERS_TO"
+  },
+  {
+    "source": "We",
+    "target": "Panasonic",
+    "relation": "RELY_ON"
+  },
+  {
+    "source": "We",
+    "target": "Contemporary Amperex Technology Co.",
+    "relation": "RELY_ON"
+  },
+  {
+    "source": "Contemporary Amperex Technology Co. Limited",
+    "target": "battery cells",
+    "relation": "SUPPLIES"
+  },
+  {
+    "source": "Panasonic",
+    "target": "battery cells",
+    "relation": "SUPPLIES"
+  },
+  {
+    "source": "our company",
+    "target": "battery cells",
+    "relation": "MANUFACTURES"
+  },
+  {
+    "source": "Tesla",
+    "target": "electric vehicles",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "autonomous solutions",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Tesla",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Tesla",
+    "target": "employees",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "companies",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "start-ups",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Tesla",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Tesla",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Space Exploration Technologies Corp.",
+    "relation": "HOLD_POSITION_AT"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "X.AI Holdings Corp.",
+    "relation": "HOLD_POSITION_AT"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Neuralink Corp.",
+    "relation": "HOLD_POSITION_AT"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "The Boring Company",
+    "relation": "HOLD_POSITION_AT"
+  },
+  {
+    "source": "Tesla",
+    "target": "customers",
+    "relation": "SELLS"
+  },
+  {
+    "source": "Tesla",
+    "target": "energy generation and storage systems",
+    "relation": "PROVIDES"
+  },
+  {
+    "source": "Tesla",
+    "target": "manufacturers",
+    "relation": "PASSES_THROUGH"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "2025 CEO Performance Award",
+    "relation": "INCENTIVIZED_BY"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "our company",
+    "relation": "VISION_FOR"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Chief Executive Officer",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Tesla",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Audit Committee",
+    "target": "cybersecurity threats",
+    "relation": "OVERSIGHT_OF"
+  },
+  {
+    "source": "Information Security",
+    "target": "cybersecurity risk management",
+    "relation": "OVERSEES"
+  },
+  {
+    "source": "Product Security",
+    "target": "cybersecurity risk management",
+    "relation": "OVERSEES"
+  },
+  {
+    "source": "Compliance",
+    "target": "cybersecurity risk management",
+    "relation": "OVERSEES"
+  },
+  {
+    "source": "Legal teams",
+    "target": "cybersecurity risk management",
+    "relation": "OVERSEES"
+  },
+  {
+    "source": "Austin",
+    "target": "Texas",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Megafactories",
+    "target": "Shanghai",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Megafactories",
+    "target": "Lathrop, California",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Megafactory",
+    "target": "Houston, Texas",
+    "relation": "LOCATED_IN"
+  },
+  {
+    "source": "Megapack 3",
+    "target": "next-generation industrial storage product",
+    "relation": "IS_A"
+  },
+  {
+    "source": "Megablock",
+    "target": "next-generation industrial storage product",
+    "relation": "IS_A"
+  },
+  {
+    "source": "residential retrofit solar panel",
+    "target": "new product",
+    "relation": "IS_A"
+  },
+  {
+    "source": "Board of Directors",
+    "target": "Tesla, Inc.",
+    "relation": "OVERSEES"
+  },
+  {
+    "source": "Stockholders",
+    "target": "Tesla, Inc.",
+    "relation": "OWNS"
+  },
+  {
+    "source": "Tesla",
+    "target": "automotive segment",
+    "relation": "RELATES_TO"
+  },
+  {
+    "source": "management",
+    "target": "Tesla",
+    "relation": "DETERMINES"
+  },
+  {
+    "source": "auditor",
+    "target": "Tesla",
+    "relation": "EVALUATES"
+  },
+  {
+    "source": "Tesla",
+    "target": "automotive warranty reserve",
+    "relation": "EVALUATES"
+  },
+  {
+    "source": "FASB",
+    "target": "ASU No. 2023-08",
+    "relation": "ISSUED"
+  },
+  {
+    "source": "ASU No. 2023-08",
+    "target": "Crypto Assets",
+    "relation": "COVERS"
+  },
+  {
+    "source": "Delaware Supreme Court",
+    "target": "Court of Chancery",
+    "relation": "REVERSED"
+  },
+  {
+    "source": "Mr. Musk",
+    "target": "2018 compensation package",
+    "relation": "REINSTATED"
+  },
+  {
+    "source": "Special Committee",
+    "target": "Mr. Musk",
+    "relation": "EVALUATES"
+  },
+  {
+    "source": "CEO succession framework",
+    "target": "Board of Directors",
+    "relation": "APPROVED_BY"
+  },
+  {
+    "source": "Tesla",
+    "target": "Elon Musk",
+    "relation": "DIRECTOR_OF"
+  },
+  {
+    "source": "Tesla",
+    "target": "Delaware Court of Chancery",
+    "relation": "FILED_ACTION_IN"
+  },
+  {
+    "source": "Tesla",
+    "target": "Delaware Supreme Court",
+    "relation": "APPEALED"
+  },
+  {
+    "source": "Tesla",
+    "target": "Delaware Court of Chancery",
+    "relation": "APPROVED"
+  },
+  {
+    "source": "Delaware Court of Chancery",
+    "target": "Settlement Agreement",
+    "relation": "APPROVED"
+  },
+  {
+    "source": "Tesla",
+    "target": "Delaware Court of Chancery",
+    "relation": "SUED_IN"
+  },
+  {
+    "source": "Tesla",
+    "target": "SEC",
+    "relation": "SETTLED_WITH"
+  },
+  {
+    "source": "California Civil Rights Department",
+    "target": "Tesla",
+    "relation": "FILED_COMPLAINT_AGAINST"
+  },
+  {
+    "source": "Equal Employment Opportunity Commission",
+    "target": "Tesla",
+    "relation": "ISSUED_CAUSE_FINDING_AGAINST"
+  },
+  {
+    "source": "EEOC",
+    "target": "Tesla",
+    "relation": "FILED_COMPLAINT_AGAINST"
+  },
+  {
+    "source": "Tesla",
+    "target": "United States District Court for the Northern District of California",
+    "relation": "FILED_IN"
+  },
+  {
+    "source": "Tesla",
+    "target": "Elon Musk",
+    "relation": "NAMED_IN"
+  },
+  {
+    "source": "Tesla",
+    "target": "Tesla stock",
+    "relation": "PURCHASED_BY"
+  },
+  {
+    "source": "Tesla, Inc.",
+    "target": "Elon Musk",
+    "relation": "DEFENDANT_OF"
+  },
+  {
+    "source": "Tesla, Inc.",
+    "target": "U.S. District Court Western District of Texas",
+    "relation": "SUED_IN"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "U.S. District Court Western District of Texas",
+    "relation": "SUED_IN"
+  },
+  {
+    "source": "District of Texas",
+    "target": "Tesla, Inc.",
+    "relation": "SUED"
+  },
+  {
+    "source": "District of Texas",
+    "target": "Elon Musk",
+    "relation": "SUED"
+  },
+  {
+    "source": "District of Texas",
+    "target": "Company executives",
+    "relation": "SUED"
+  },
+  {
+    "source": "Tesla, Inc.",
+    "target": "Elon Musk",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Chief Executive Officer",
+    "target": "management",
+    "relation": "SUPERVISES"
+  },
+  {
+    "source": "Chief Financial Officer",
+    "target": "management",
+    "relation": "PARTICIPATES_IN"
+  },
+  {
+    "source": "PricewaterhouseCoopers LLP",
+    "target": "internal control over financial reporting",
+    "relation": "AUDITED"
+  },
+  {
+    "source": "Tesla",
+    "target": "xAI",
+    "relation": "ACQUIRED"
+  },
+  {
+    "source": "Tesla",
+    "target": "xAI",
+    "relation": "HAS_COMMERCIAL_RELATIONSHIP_WITH"
+  },
+  {
+    "source": "Tesla",
+    "target": "xAI",
+    "relation": "ENTERED_INTO"
+  },
+  {
+    "source": "Tesla",
+    "target": "xAI",
+    "relation": "EVALUATES"
+  },
+  {
+    "source": "Tesla",
+    "target": "xAI",
+    "relation": "PROPOSED_INVESTMENT"
+  },
+  {
+    "source": "Registrant",
+    "target": "Toyota Motor Corporation",
+    "relation": "AMENDMENT_TO"
+  },
+  {
+    "source": "Tesla Motors, Inc.",
+    "target": "U.S. Bank National Association",
+    "relation": "ENTERED_INTO"
+  },
+  {
+    "source": "Tesla Motors, Inc.",
+    "target": "State of Nevada",
+    "relation": "ENTERED_INTO"
+  },
+  {
+    "source": "Tesla (Shanghai) Co., Ltd.",
+    "target": "Shanghai Planning and Land Resource Administration Bureau",
+    "relation": "GRANTED_BY"
+  },
+  {
+    "source": "Tesla, Inc.",
+    "target": "Securities and Exchange Commission",
+    "relation": "FILED_WITH"
+  },
+  {
+    "source": "Tesla, Inc.",
+    "target": "Participant",
+    "relation": "EXECUTED"
+  },
+  {
+    "source": "Participant",
+    "target": "Tesla, Inc.",
+    "relation": "SERVICE_PROVIDER_OF"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Information Service (Dalian) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Management and Service (Haikou) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Changchun) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Changsha) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Chengdu) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Chongqing) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Dalian) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Fuzhou) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Guangzhou) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Guangzhou Panyu District) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Guiyang) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Haerbin) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "Tesla Automobile Sales and Service (Beijing) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Hangzhou) Co., Ltd.",
+    "relation": "AFFILIATED_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Hangzhou) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Hefei) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Hohhot) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Jinan) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Kunming) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Lanzhou) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Nanchang) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Nanjing) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Nanning) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Ningbo) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Qingdao) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Shanghai) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Shenyang) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Shenzhen) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Shijiazhuang) Co., Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "mobile Sales and Service (Haerbin) Co., Ltd.",
+    "target": "Tesla Automobile Sales and Service (Suzhou) Co. Ltd.",
+    "relation": "COMPETES_WITH"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "registrant",
+    "relation": "CERTIFIES"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "registrant",
+    "relation": "DESIGNED"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "registrant",
+    "relation": "DISCLOSED"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Tesla, Inc.",
+    "relation": "CERTIFIES"
+  },
+  {
+    "source": "Vaibhav Taneja",
+    "target": "Tesla, Inc.",
+    "relation": "CERTIFIES"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Tesla, Inc.",
+    "relation": "CEO_OF"
+  },
+  {
+    "source": "Zachary Kirkhorn",
+    "target": "Tesla, Inc.",
+    "relation": "CFO_OF"
+  }
+]
