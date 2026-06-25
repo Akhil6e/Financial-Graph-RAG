@@ -1,9 +1,6 @@
 # 📊 Financial Graph RAG: LLM-App for Complex Financial Analysis
 
-## 🚀 Live Demo
-**[Run the App on Hugging Face Spaces](https://huggingface.co/spaces/DeepXAi/Finanacial-Graph-RAG)**
 
----
 
 ## 💡 The Problem
 Standard RAG (Retrieval-Augmented Generation) applications treat documents as flat text chunks. While they are good at retrieval based on keyword similarity, they **fail** at:
